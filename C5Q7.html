@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Unit 6</title>
+</head>
+<body>
+<script>
+var numberOfZeros = function(zero) {
+  var i = 0;
+  zero.forEach(function(v) {
+    if (v === 0) i++;
+  });
+  return i;
+}
+var count = numberOfZeros([4, 0, false, 5, 0]);
+alert( count );
+</script>
+</body>
+</html>
