@@ -1,3 +1,0 @@
-Refactoring is a way of restructuring your code so that it looks cleaner, but operates the same. One article claimed that the term refactoring was
-derived from mathmatics. I think this makes sense as it is mimicking the function of factoring in mathmatics. You basically take the code
-that you already have and restructure it internally without harming the external structure. The goal is to have cleaner or simpler source code. 
